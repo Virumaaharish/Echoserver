@@ -1,5 +1,5 @@
-## Name   : SANJAY M
-## Reg No : 212223230187
+## Name   : M VIRUMAA HARISH
+## Reg No : 212223230246
 
 # Echoserver
 Echo server and client using python socket
